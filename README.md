@@ -1,4 +1,4 @@
-# 🌸 midnight-purple
+# 🌸 Mitternachtsviolett Radiata
 
 > *A dark Discord theme — inspired by the crimson spider lily fields of [Lycoris Radiata by Kuro](https://kuro-kai.itch.io/lycoris-radiata).*
 
