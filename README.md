@@ -12,7 +12,11 @@
 
 ## Preview
 
-> *(Add your screenshots here!)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54ef025e-3d30-4360-8e61-edd26cf92caa" width="32%" />
+  <img src="https://github.com/user-attachments/assets/2baf494a-3b31-4876-9708-c9a70ce00017" width="32%" />
+  <img src="https://github.com/user-attachments/assets/f560ae91-02c5-4afb-a28d-72894c9134db" width="32%" />
+</p>
 
 ---
 
@@ -27,7 +31,7 @@
 - 📐 Separated chatbar layout
 - 🪟 Custom window controls
 
----
+
 
 ## Installation
 
